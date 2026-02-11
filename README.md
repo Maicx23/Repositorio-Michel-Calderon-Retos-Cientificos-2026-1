@@ -2,7 +2,7 @@
 
 ## Reto o Experimentación
 
-El tema elegido es dinámica, especificamente la dinámica de cuerpo rigido.
+El tema elegido es dinámica, especificamente la dinámica de cuerpo rigido y momento de inercia.
 
 ## Integrantes del grupo
 Este grupo está integrado por
