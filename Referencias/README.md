@@ -8,3 +8,4 @@ En esta sección se encuentra las bases del proyecto, ya sean artículos, libros
 - Persson, B. N. (2000). Sliding Friction: Physical Principles and Applications. (Análisis del surgimiento de la perdida de energía en la rodadura, obteniendo así el coeficiente de rodadura)
 - Sullivan, J. P., et al. (2008). Measuring the coefficient of rolling friction using a rolling pendulum. American Journal of Physics. (Otra forma de calcular el coeficiente de rodadura con un "rolling pendulum")
 - Wee, L. K., et al. (2012). Video Analysis and Modeling Tool for Physics Education. (Estudio para demostrar fiabilidad del programa Tracker)
+- International Organization for Standardization. (2018). ISO 28580: Passenger car, truck and bus tyres — Methods of measuring rolling resistance — Single point test and correlation of measurement results. (Método de tambores giratorios)
