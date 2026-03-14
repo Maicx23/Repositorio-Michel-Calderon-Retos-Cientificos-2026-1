@@ -12,3 +12,6 @@ En esta sección se encuentra las bases del proyecto, ya sean artículos, libros
 - https://www.all-well.com.tw/product/p067. (Imagen de la máquina de tambor giratorio)
 - https://physicsdemos.site.wesleyan.edu/home/mechanics/1q/1q20-44-rolling-pendulum/. (Imagen del péndulo de rodadura)
 - https://www.baloccoprovingground.com/en-us/Pages/professional-testing/testing.aspx. (Imagen del método Coast-Down)
+- https://prezi.com/i/fggtyrq0-rwi/fenomenos-moleculares/. (Imagen de la imagen para representar la adhesión molecular)
+- https://www.reddit.com/r/interestingasfuck/comments/135uee2/aerodynamics_of_a_cow/?tl=es-419. (Imagen de la aerodinámica de una vaca xd)
+- https://www.blogmecanicos.com/2017/12/la-resistencia-la-rodadura-y-la_5.html. (Imagen de la representación de la resistencia a la rodadura)
