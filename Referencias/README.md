@@ -1,6 +1,6 @@
 # Bibliografía
 
-En esta sección se encuentra las bases del proyecto, ya sean artículos, libros, o contenido multimedia que, de alguna forma ha sido utilizado en son de encontrar una solución al proyecto de clase.
+En esta sección se encuentra las bases del proyecto, ya sean artículos, libros, o contenido multimedia que, de alguna forma ha sido utilizado en son de encontrar una solución al proyecto de clase, sin ningun tipo de orden dado.
 
 - SAE International (2004). J2263: Road Load Measurement Using Onboard Anemometry and Coastdown Techniques. (Protocolo para eficiencia energética de automóviles)
 - SAE Technical Paper 980164. (Estudio del SAE para demostrar que la metodologia "coastdown" es muy fiable)
